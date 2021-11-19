@@ -9,4 +9,5 @@ Typical silicon ICs must be stable at the low temperature like -40C to as high a
 
 ### How to solve the problem?
 -The most simplest way to solve the problem is to use a resistive divider
+-Forward biased transistor and resistor is another approach but still doesn't provide enough
 

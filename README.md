@@ -29,3 +29,8 @@ Software:
 
 -*Magic* for layout editor
 
+##CMOS Bandgap Circuit
+
+### Block Diagram
+
+![](/images/Capture2.PNG)

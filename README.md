@@ -33,4 +33,6 @@ Software:
 
 ### Block Diagram
 
+The overall idea of CMOS bandgap generator can be understood from the figure below. Basically two different temperature dependant voltage reference circuits are created first. These voltage refernces are complementary to each other, meaning if one increases reference voltage with respect to temperature, the other decreases the reference voltage with in similar slope with temperature. Hence substraction of these volatges gives zero resultant increase or decrease with time.  
+
 ![](/images/Capture2.PNG)

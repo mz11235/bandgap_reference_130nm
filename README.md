@@ -17,6 +17,11 @@ Typical silicon ICs must be stable at the low temperature like -40C to as high a
 
 -We practice here on a cmos bandgap reference circuit that achieves the requirement of low sensitivity for temperature
 
+### BGR Types
+
+- Self biased current mirror (simplest to start with)
+- With Operational Amplifier
+
 ### Tools that we will use
 
 We are focusing on opensource tapeout, hence from the PDK to softwares we use are opensource.
